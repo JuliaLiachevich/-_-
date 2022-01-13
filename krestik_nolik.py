@@ -36,3 +36,4 @@ def igra():
             print('выйграл игрок №1')
             break
 igra()
+
